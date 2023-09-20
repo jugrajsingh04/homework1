@@ -1,2 +1,2 @@
 Q: What is a remote repository?
-A: a remote repository exists on a server different from the local machine. It is used to do collaboration work with other members that may be working on the same project. Like the book gave example of Dave and his work friends working together. They used git as a remote repo. The changes on local mahine need to be pushed to remote repo after they are commited locally.
+A: a remote repository exists on a server different from the local machine. It is used to do collaboration work with other members that may be working on the same project. Like the book gave example of Dave and his work friends working together. They used git as a remote repo. The changes on local machine need to be pushed to remote repo after they are commited locally.
